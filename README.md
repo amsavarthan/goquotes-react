@@ -1,4 +1,4 @@
-<img src="/home/lvamsavarthan/ReactJS/goquotes/public/goquotes-logo.png" alt="goquotes-logo" style="zoom: 80%;" />
+<img align="center" src="https://github.com/lvamsavarthan/goquotes-react/blob/master/public/goquotes-logo.png" alt="goquotes-logo" style="zoom: 70%;"/>
 
 # Go Quotes
 
@@ -54,7 +54,6 @@ Go Quotes is free, open source web app made using `ReactJS`. The quotes are fetc
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. 
-
 
 
 ------
