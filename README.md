@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/lvamsavarthan/goquotes-react/blob/master/public/goquotes-logo.png" alt="goquotes-logo" style="zoom: 70%;"/>
+<p align="center"><img align="center" src="https://github.com/lvamsavarthan/goquotes-react/blob/master/public/goquotes-logo.png" alt="goquotes-logo" style="zoom: 70%;"/></p>
 
 # Go Quotes
 
