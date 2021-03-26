@@ -1,8 +1,8 @@
-<p align="center"><img align="center" src="https://github.com/lvamsavarthan/goquotes-react/blob/master/public/goquotes-logo.png" alt="goquotes-logo" style="zoom: 70%;"/></p>
+<p align="center"><img align="center" src="https://github.com/amsavarthan/goquotes-react/blob/master/public/goquotes-logo.png" alt="goquotes-logo" style="zoom: 70%;"/></p>
 
 # Go Quotes
 
-Go Quotes is free, open source web app made using `ReactJS`. The quotes are fetched from [Go Quotes API](https://github.com/lvamsavarthan/goquotes-api). 
+Go Quotes is free, open source web app made using `ReactJS`. The quotes are fetched from [Go Quotes API](https://github.com/amsavarthan/goquotes-api). 
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ Go Quotes is free, open source web app made using `ReactJS`. The quotes are fetc
 1. Clone this repository to your local directory
 
    ```shell
-   $ git clone https://github.com/lvamsavarthan/goquotes-react.git
+   $ git clone https://github.com/amsavarthan/goquotes-react.git
    ```
 
 2. Change your directory to project directory
